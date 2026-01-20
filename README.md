@@ -1,1 +1,16 @@
-# Vditom.github.io
+<html>
+<head>
+    <Title>CV</Title>
+</head>
+<body>
+    <title>Recherch de stage</title>
+    <H1>CV recherche de stage</H1> 
+    <p><strong>Date Stage :</strong>15mai au 16juin</p>
+    <p><strong>Prénom :</strong>Victorien</p>
+    <p><strong>Age :</strong>19 ans</p>
+
+    <img src="tiakola.jpg" alt="Image" width="200">
+    <p><strong>Nom :</strong>DITOMENE SEKWENDA</p>
+    <p><strong>Ville, Pays :</strong>Le Mans, FRANCE</p>
+    <p><strong>Mobilité :</strong>Voiture</p>
+</body>
